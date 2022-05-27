@@ -15,8 +15,8 @@ Nessa calculadora se opera funcionalidades basicas de uma calculadora (adicao, s
 
 # Desenvolvimento
 
-Caso queria entrar no modo desenvolvimento clique no [link](http://ai2.appinventor.mit.edu/?ng=183613ef-a407-4f0a-878e-9a181858947d) o qual o redicionará para o site do MIT App Inventor.
+Caso queria entrar no modo desenvolvimento clique no [link](http://ai2.appinventor.mit.edu/?ng=183613ef-a407-4f0a-878e-9a181858947d) o qual você será redicionado para o site do MIT App Inventor.
 
- ## Observações
+ **Observações**
 
 - Caso não tenha uma conta no site MIT App Inventor, é possivel que não consiga entrar no modo desenvolvimento do aplicativo.
