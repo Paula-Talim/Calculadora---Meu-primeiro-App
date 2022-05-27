@@ -13,9 +13,9 @@ Nessa calculadora se opera funcionalidades básicas de uma calculadora (adição
 - [Clique aqui](https://drive.google.com/file/d/1xRC48C0lhjgRGUVMWUawkoleBihGIwbf/view?usp=sharing) para baixar o arquivo .apk Androide;
 - [Clique aqui](https://drive.google.com/file/d/1CeWX3Mjj83c7mVZ4A7iKGQlJcjfb6-qV/view?usp=sharing) para baixar o arquivo .aab Androide.
 
-# Desenvolvimento
+## Modo Desenvolvimento
 
-Caso queria entrar no modo desenvolvimento clique no [link](http://ai2.appinventor.mit.edu/?ng=183613ef-a407-4f0a-878e-9a181858947d) o qual você será redirecionado para o site do MIT App Inventor.
+Caso queria entrar no modo desenvolvimento [clique aqui](http://ai2.appinventor.mit.edu/?ng=183613ef-a407-4f0a-878e-9a181858947d). Você será redirecionado para o site do MIT App Inventor, onde a aplicação foi produzido com a programação em blocos.
 
  **Observações**
 
