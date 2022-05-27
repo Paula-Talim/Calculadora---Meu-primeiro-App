@@ -1,6 +1,6 @@
 # Calculadora
 
-![Print Screen das telas do aplicativo](C:\MeusDocumentos\meusProjetos\git\calculadora-PrimeiroAPP\screenshots.png)
+![Print Screen das telas do aplicativo](https://user-images.githubusercontent.com/105447558/170772730-16dccae5-ca39-4317-8bc3-a82adb2f8077.png)
 
 # Sobre este projeto
 
