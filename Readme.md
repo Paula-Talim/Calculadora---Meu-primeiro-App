@@ -1,7 +1,7 @@
-# <img width = "25" alt = "icone do app Calculadora" src = "https://user-images.githubusercontent.com/105447558/179635908-08f8ce97-ba8b-4a21-88e8-92b62d19b2b9.png">     Calculadora
+# <img width = "25" alt = "icone do app Calculadora" src = "./imagens/icone.png">     Calculadora
 
 ## Telas do aplicativo
-<img width = "600" alt = "Print Screen das telas do aplicativo" src = "https://user-images.githubusercontent.com/105447558/179645048-00a9d045-c5c0-4b42-b597-d36a9348e89b.png">  
+<img width = "600" alt = "Print Screen das telas do aplicativo" src = ".\imagens\screenshots.png">  
 
 ## Sobre este projeto
 
