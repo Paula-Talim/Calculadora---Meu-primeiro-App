@@ -1,7 +1,7 @@
-# <img width = "25" alt = "icone do app Calculadora" src = "./imagens/icone.png">     Calculadora
+# <img width = "25" alt = "icone do app Calculadora" src = "./img/icone.png">     Calculadora
 
 ## Telas do aplicativo
-<img width = "600" alt = "Print Screen das telas do aplicativo" src = ".\imagens\screenshots.png">  
+<img width = "600" alt = "Print Screen das telas do aplicativo" src = ".\img\screenshots.png">  
 
 ## Sobre este projeto
 
